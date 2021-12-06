@@ -19,7 +19,7 @@ function dbarray(&$result) {
 
 $db = dbopen('helen.db');
 
-define("COOKIE_HELEN", "orgLOL_ABCVG");
+define("COOKIE_HELEN", "1234");
 define("DOMAIN", "http://helen.8-8-8.ovh/");
 
 function _setCookie ($cookieName, $cookieContent, $cookieExpiration, $cookiePath, $cookieDomain, $secure = false, $httpOnly = false) {
