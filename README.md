@@ -6,3 +6,8 @@ and other will take part in this event.
 3. Section about site. There is information about our team, our idea, statistics and what will be in future.
 4. Section profile. There is account of user. He will check his upcoming events in which he participate or create here his own. Also in future we want to add possibility to add friends
 and then call them to some events, or create joint event.
+
+aalonkaa - Кучковська Олена
+ZXClinreyz - Небожук Станіслав
+Дзядик Богдан
+Михаляк Роман
